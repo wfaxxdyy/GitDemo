@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53020d2-f84c-47a2-9eba-bb17a559e692" name="Default Changelist" comment="">
+    <list default="true" id="d53020d2-f84c-47a2-9eba-bb17a559e692" name="Default Changelist" comment="a and b">
       <change beforePath="$PROJECT_DIR$/src/main/resources/gittest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gittest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first commit!" />
     <MESSAGE value="feature1.0 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature1.0 commit" />
+    <MESSAGE value="a and b" />
+    <option name="LAST_COMMIT_MESSAGE" value="a and b" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1596526414113">
